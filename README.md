@@ -11,7 +11,7 @@
 - Асинхронная загрузка данных
 - Адаптивный интерфейс
 
-##Скриншоты
+
 ### Главная страница
 <img width="1920" height="1080" alt="homePage" src="https://github.com/user-attachments/assets/fa3802da-a5d8-449f-bc36-67a82abd3081" />
 
